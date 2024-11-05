@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fer866
 - 👀 I’m interested in new jobs positions outside México City.
-- 🌱 I’m currently learning .net core 5 micro services and SAP S4/Hana
-- 💞️ I’m looking to collaborate on .net core 5 and angular 12 proyects.
+- 🌱 I’m currently develop .net 8 micro services and SAP S4/Hana
+- 💞️ I’m looking to collaborate on .net 8 and angular 18 proyects.
 - 📫 How to reach me Twitter @fer866
 
 <!---
